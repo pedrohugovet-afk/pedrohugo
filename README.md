@@ -1,6 +1,6 @@
 # 🐾 PDFs veterinários → informações organizadas → ações
 
-Um projeto com **duas skills** para ajudar a ler documentos veterinários, organizar o que foi encontrado e transformar os resultados revisados em uma visão útil para a equipe.
+Um projeto com **duas skills** para ajudar a ler documentos veterinários, organizar o que foi encontrado e transformar ,os resultados revisados em uma visão útil para a equipe.
 
 **Comece aqui:** [entenda o fluxo](#1-como-funciona) · [veja os exemplos](#4-veja-um-exemplo-completo) · [prepare o projeto](#5-como-começar) · [copie um pedido pronto](#6-pedidos-prontos-para-usar)
 
